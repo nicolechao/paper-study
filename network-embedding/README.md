@@ -6,7 +6,7 @@
 1. [Graph Embedding Techniques, Applications, and Performance: A Survey](https://arxiv.org/pdf/1705.02801.pdf), Palash Goyal and Emilio Ferrara. 2017.
 2. [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/pdf/1709.07604.pdf), Hongyun Cai, Vincent W. Zheng, and Kevin Chen-Chuan Chang. 2017.
 3. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584.pdf), William L. Hamilton, Rex Ying, Jure Leskovec. 2018.
-4. [Network Representation Learning: A Survey](https://arxiv.org/pdf/1801.05852.pdf), Daokun Zhang, Jie Yin, Xingquan Zhu Senior Member, IEEE, Chengqi Zhang Senior Member, IEEE. 2018.
+4. [Network Representation Learning: A Survey](https://arxiv.org/pdf/1801.05852.pdf), Daokun Zhang, Jie Yin, Xingquan Zhu, Chengqi Zhang. 2018.
 5. [A Survey on Network Embedding](https://arxiv.org/pdf/1711.08752.pdf), Peng Cui, Xiao Wang, Jian Pei, Wenwu Zhu. 2018.
 
 
