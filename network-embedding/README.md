@@ -12,7 +12,8 @@
 
 ## Journal and Conference Paper
 
-1. [LINE: Large-scale Information Network Embedding](https://arxiv.org/pdf/1503.03578.pdf), Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Mei. 2015.
-2. [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf), Aditya Grover, Jure Leskovec. 2016.
-3. [Structural Deep Network Embedding](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf), Daixin Wang, Peng Cui, Wenwu Zhu. 2016.
-4. [Community Preserving Network Embedding](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14589/13763), Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang. 2017.
+1. [Fast unfolding of communities in large networks](https://arxiv.org/pdf/0803.0476.pdf), Vincent D. Blondel, Jean-Loup Guillaume, Renaud Lambiotte and Etienne Lefebvre. 2008.
+2. [LINE: Large-scale Information Network Embedding](https://arxiv.org/pdf/1503.03578.pdf), Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Mei. 2015.
+3. [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf), Aditya Grover, Jure Leskovec. 2016.
+4. [Structural Deep Network Embedding](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf), Daixin Wang, Peng Cui, Wenwu Zhu. 2016.
+5. [Community Preserving Network Embedding](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14589/13763), Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang. 2017.
