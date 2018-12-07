@@ -14,4 +14,6 @@ Sentiment Analysis of Social Media Text, C.J. Hutto, Eric Gilbert. 2014. [Paper]
 Classification, Xiang Zhang, Junbo Zhao, Yann LeCun. 2015. [Paper](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
 4. mLSTM: Multiplicative LSTM for sequence modelling, Ben Krause, Liang Lu, Iain Murray, Steve Renals. 2017. [Paper](https://arxiv.org/pdf/1609.07959.pdf). 
 5. Learning to Generate Reviews and Discovering Sentiment, Alec Radford, Rafal Jozefowicz, Ilya Sutskever. 2017. [Paper](https://arxiv.org/pdf/1704.01444.pdf), [Code](https://github.com/titu1994/Keras-Multiplicative-LSTM).
-6. TCN: An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, Shaojie Bai, J. Zico Kolter, Vladlen Koltun. 2018. [Paper](https://arxiv.org/pdf/1803.01271.pdf)
+6. TCN: An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, Shaojie Bai, J. Zico Kolter, Vladlen Koltun. 2018. [Paper](https://arxiv.org/pdf/1803.01271.pdf).
+7. BERT: Pre-training of Deep Bidirectional Transformers for
+Language Understanding, Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. [Paper](https://arxiv.org/pdf/1810.04805.pdf).
