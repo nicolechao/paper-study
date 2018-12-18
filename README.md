@@ -6,3 +6,4 @@ Document papers I've been studying. Each subdirectory belongs to one topic & has
 2. [Deep Learning Model](https://github.com/nicolechao/paper-study/tree/master/deep-learning-model)
 3. [Naturaul Language Processing](https://github.com/nicolechao/paper-study/tree/master/natural-language-processing)
 4. [Network Embedding](https://github.com/nicolechao/paper-study/tree/master/network-embedding)
+5. [Recommender Systems](https://github.com/nicolechao/paper-study/tree/master/recommender-systems)
